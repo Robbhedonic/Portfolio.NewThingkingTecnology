@@ -354,7 +354,11 @@ img {
 }
 .home__scroll-arrow{
   font-size: 1.25rem;
-}
+} 
+
+
+/*==================== HOME ====================*/
+
 /*==================== BUTTONS ====================*/
 
 .button{
@@ -1420,4 +1424,3 @@ input[type="radio"][name="testimonial-slider"]:nth-child(3):checked~.navigation 
 .left-position:after {
   right: -9x;
 }
-
