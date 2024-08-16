@@ -330,6 +330,7 @@ img {
 }
 .home__description{
   margin-bottom: var(--mb-2);
+  text-align: justify;
 }
 .home__scroll{
    /*display: none;*/
